@@ -12,9 +12,9 @@ font-family: "Helvetica", "Arial", "Hiragino Kaku Gothic ProN", "Hiragino Sans",
 }
 
 main{
-  width:70%;
+  width:60%;
   margin:0 auto;
-  max-width: 720px;  
+  max-width: 600px;  
 }
 
 img {
